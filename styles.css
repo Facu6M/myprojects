@@ -1,0 +1,52 @@
+body {
+   padding: 0px;
+   margin: 0px;
+   background-color: #1E2927;
+}
+
+
+h4 {
+   text-align: center;
+  font-size: 50px;
+  color: white;
+  font-family: 'inconsolata';
+}
+
+
+.project-tile{
+  display: flex;
+  flex-wrap: wrap;
+    width: 100%;
+ justify-content: center;
+
+}
+
+#cards {
+
+   margin: 20px;
+   height: 350px;
+   width: 350px;
+}
+
+
+h5 {
+   padding-top: 10px;
+   text-align: center;
+   font-size: 18px;
+   font-family: 'koulen';
+   margin-top: 0px;
+   height: 40px;
+   background-color: #4A8479;
+}
+
+
+.img{
+   margin-top: -30px;
+   width: 350px;
+   height: 250px;
+}
+
+a {
+   color: black;
+   text-decoration: none;
+}
